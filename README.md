@@ -1,13 +1,10 @@
 - <html>
   <head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <h1 style="text-align:center; font-family: "Edu AU VIC WA NT Dots", cursive;">👋 Hi, I'm Diwakar chaurasiya</h1>
+  <h1 style="text-align:center;", cursive;">👋 Hi, I'm Diwakar chaurasiya</h1>
   <hr>
-  <h2 style="text-align:center;  font-family: "Edu AU VIC WA NT Dots", cursive;">Frontend Developer</h2>
+  <h2 style="text-align:center;  ", cursive;">Frontend Developer</h2>
  <hr>
   <ul style="font-family: 'serif', cursive; ">
     <li>💻I love creating things for internet</li>
